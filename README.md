@@ -1,6 +1,6 @@
 ### Sunny Chokshi
 
-PhD student in Information Technology at the University of the Cumberlands, and a software engineer in the Boston area. I study the adversarial robustness of large language models in cybersecurity, mostly how LLM code reviewers fail and how to defend them.
+IEEE Senior Member and PhD student in Information Technology at the University of the Cumberlands, and a software engineer in the Boston area. I study the adversarial robustness of large language models in cybersecurity, mostly how LLM code reviewers fail and how to defend them.
 
 [Website](https://sunny-chokshi.github.io) · [ORCID](https://orcid.org/0009-0003-4738-7759) · [LinkedIn](https://www.linkedin.com/in/sunnychokshi)
 
